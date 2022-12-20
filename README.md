@@ -2,7 +2,7 @@
 
 <p>Tela de cadastro, foi aplicado máscaras no campo  através do jquery..</p>
 
-<p>Saiba mais acessando o site <a href="https://correios-express-p698wt1pt-stanley-felix-bergamo.vercel.app/">Clicando aki</a></p> 
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Correios-Express/">Clicando aki</a></p> 
 <div align="center" >
 <img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Correios-Express/exerc%C3%ADcio_plugins_jquery/imgs/mac.png" alt="imagem">
 </div>
